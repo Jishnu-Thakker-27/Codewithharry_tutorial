@@ -1,0 +1,10 @@
+
+
+print(''' Twinkle , twinkle, little star, how I wonder what you are.\n Up above the world so high,
+like a diamond in the sky./n Twinkle, twinkle, little star, how I wonder what you are.\n
+When the blazing sun is set, and the grass with dew is wet.\nThen you show your little
+light, twinkle, twinkle all the night.\nTwinkle, twinkle little star, how I wonder what you
+are.\nThen the traveler in the dark thanks you for your tiny spark.\nHow could he see where to
+go if you did not twinkle so?\nTwinkle, twinkle little star, how I wonder what you are.
+As your bright and tiny spark lights the traveler in the dark, though I know not what you
+are, twinkle, twinkle, little star.\nTwinkle, twinkle, little star, how I wonder what you are.\n''')

@@ -1,0 +1,16 @@
+e=set()
+
+No_1=int(input("Enter number 1: "))
+e.add(No_1)
+No_2=int(input("Enter number 2: "))
+e.add(No_2)
+No_3=int(input("Enter number 3: "))
+e.add(No_3)
+No_4=int(input("Enter number 4: "))
+e.add(No_4)
+No_5=int(input("Enter number 5: "))
+e.add(No_5)
+No_6=int(input("Enter number 6: "))
+e.add(No_6)
+
+print(e)

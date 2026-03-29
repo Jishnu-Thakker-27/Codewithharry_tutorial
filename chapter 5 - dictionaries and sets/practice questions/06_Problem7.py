@@ -1,0 +1,22 @@
+s={}
+Name1=input("Enter Your Name: ")
+FavLan1=input("Enter Your fav Language: ")
+s.update({Name1:FavLan1})
+Name2=input("Enter Your Name: ")
+FavLan2=input("Enter Your fav Language: ")
+s.update({Name2:FavLan2})
+Name3=input("Enter Your Name: ")
+FavLan3=input("Enter Your fav Language: ")
+s.update({Name3:FavLan3})
+Name4=input("Enter Your Name: ")
+FavLan4=input("Enter Your fav Language: ")
+s.update({Name4:FavLan4})
+Name5=input("Enter Your Name: ")
+FavLan5=input("Enter Your fav Language: ")
+s.update({Name5:FavLan5})
+Name6=input("Enter Your Name: ")
+FavLan6=input("Enter Your fav Language: ")
+s.update({Name6:FavLan6})
+print(s)
+
+# the name of friend is key and as it is updated, the last value udated value for that name will be considered
